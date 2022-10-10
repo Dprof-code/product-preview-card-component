@@ -155,10 +155,9 @@ p {
   }
 
   #product-image-container {
-    border-radius: 0;
     flex: 0 0 50%;
     border-radius: 14px 0 0 14px;
-    align-self: flex-start;
+    align-self: normal;
   }
 
   #product-img {
