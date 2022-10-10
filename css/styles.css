@@ -156,13 +156,13 @@ p {
 
   #product-description {
     flex: 0 0 50%;
-    padding: 2rem;
+    padding: 1.5rem 2rem;
     margin: 0;
     align-self: flex-start;
   }
 
   h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
 
   p {
@@ -170,7 +170,7 @@ p {
   }
 
   .current-price {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
   .slashed-price {
